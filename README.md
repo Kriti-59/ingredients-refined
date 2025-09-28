@@ -8,5 +8,5 @@ This repository contains code to clean and preprocess raw recipe ingredients. Th
 ## Data Source
 The data used in this repository comes from:
 
-- [Food.com Recipes with Ingredients and Tags]([https://www.kaggle.com/datasets/your-dataset-link](https://www.kaggle.com/datasets/realalexanderwei/food-com-recipes-with-ingredients-and-tags))
+- [Food.com Recipes with Ingredients and Tags](https://www.kaggle.com/datasets/realalexanderwei/food-com-recipes-with-ingredients-and-tags)
 
