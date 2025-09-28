@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+.jupyter/
+.ipython/
+*.json
+*.log
+.vscode/
+*.csv
+
